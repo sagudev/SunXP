@@ -30,7 +30,7 @@ There is a dim white luster from upper left.
 
 There is a white cross in the center.
 The border is a white rounded rectangle.
-There is a dim white luster from upper left.
+There is no luster.
 
 ## The Maximize Button (Active)
 
@@ -45,11 +45,11 @@ The border is a white rounded rectangle.
 
 - File Name: maximized-inactive
 - Pixel Size: (???, ???)
-- Base Color RGB: (40, 100, 256)
+- Base Color RGB: (50, 150, 256)
 
 There is white "1" of Marlett Font in the center.
 The border is a white rounded rectangle.
-There is a dim white luster from upper left.
+There is no luster.
 
 ## The Restore Button (Active)
 
@@ -65,11 +65,11 @@ There is a dim white luster from upper left.
 
 - File Name: restore-inactive
 - Pixel Size: (???, ???)
-- Base Color RGB: (40, 100, 256)
+- Base Color RGB: (50, 150, 256)
 
 There is white "2" of Marlett Font in the center.
 The border is a white rounded rectangle.
-There is a dim white luster from upper left.
+There is no luster.
 
 ## The Minimize Button (Active)
 
@@ -85,10 +85,10 @@ There is a dim white luster from upper left.
 
 - File Name: minimize-inactive
 - Pixel Size: (???, ???)
-- Base Color RGB: (40, 100, 256)
+- Base Color RGB: (50, 150, 256)
 
 There is white "0" of Marlett Font in the center.
 The border is a white rounded rectangle.
-There is a dim white luster from upper left.
+There is no luster.
 
 ...Add more...
