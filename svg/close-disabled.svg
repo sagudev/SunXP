@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64"
@@ -15,37 +14,10 @@
    viewBox="0 0 16.933333 16.933334"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="close-inactive.svg">
   <defs
-     id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4727-3">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.67579907"
-         offset="0"
-         id="stop4723" />
-      <stop
-         id="stop8670"
-         offset="0.5"
-         style="stop-color:#ffffff;stop-opacity:0" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0.28310502"
-         offset="1"
-         id="stop4725" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4727-3"
-       id="linearGradient8663"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.86444278,0,0,0.85654882,1.1477174,41.390432)"
-       x1="2.2272391"
-       y1="282.38705"
-       x2="14.600574"
-       y2="294.96945" />
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -53,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="12.5"
-     inkscape:cy="31.819192"
+     inkscape:zoom="4"
+     inkscape:cx="13.151695"
+     inkscape:cy="13.236021"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -87,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,7 +76,7 @@
        x="4.9313263e-007"
        y="280.06665" />
     <rect
-       style="fill:#b4465a;fill-opacity:1;stroke:#ffffff;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#96465a;fill-opacity:1;stroke:#ffffff;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4485"
        width="15.180495"
        height="15.180492"
@@ -112,15 +84,6 @@
        y="280.94305"
        rx="2.1166666"
        ry="2.1166666" />
-    <rect
-       style="fill:url(#linearGradient8663);fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4721"
-       width="14.637897"
-       height="14.504227"
-       x="1.1477175"
-       y="281.28119"
-       rx="1.9395938"
-       ry="1.9218861" />
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.45673078;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 15.427734 10.783203 L 10.785156 15.427734 L 27.357422 32 L 10.785156 48.572266 L 15.427734 53.214844 L 32 36.642578 L 48.572266 53.214844 L 53.216797 48.572266 L 36.644531 32 L 53.216797 15.427734 L 48.572266 10.783203 L 32 27.355469 L 15.427734 10.783203 z "

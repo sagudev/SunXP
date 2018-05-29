@@ -26,7 +26,7 @@ There is a dull white luster from upper left.
 
 - File Name: close-disabled
 - Pixel Size: (???, ???)
-- Base Color RGB: (180, 70, 90)
+- Base Color RGB: (150, 70, 90)
 
 There is a white cross in the center.
 The border is a white rounded rectangle.
