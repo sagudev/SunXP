@@ -91,7 +91,7 @@ There is dull white RGB(200, 200, 256) "0" of Marlett Font in the center.
 The border is a dull white RGB(200, 200, 256) rounded rectangle.
 There is no luster.
 
-# Title Bar
+# The Title Bar
 
 - File Name: title-bar
 - Pixel Size: (???, ???)
@@ -101,5 +101,13 @@ This is a blue title bar of rounded rectangle.
 The upper edge has a little cyanic highlight.
 The lower edge has dim shadow.
 The middle is a little dented blue.
+
+# The Title Bar (Inactive)
+
+- File Name: title-bar-inactive
+- Pixel Size: (???, ???)
+- Base Color RGB: (120, 150, 220)
+
+It's a little whitened Title Bar.
 
 ...Add more...
