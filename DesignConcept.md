@@ -98,9 +98,9 @@ There is no luster.
 - Base Color RGB: (0, 90, 240)
 
 This is a blue title bar of rounded rectangle.
-The upper edge has a little cyanic highlight.
+The upper edge has slightly cyanic highlight.
 The lower edge has dim shadow.
-The middle is a little dented blue.
+The middle is slightly dented blue.
 
 # The Title Bar (Inactive)
 
@@ -108,6 +108,6 @@ The middle is a little dented blue.
 - Pixel Size: (???, ???)
 - Base Color RGB: (120, 150, 220)
 
-It's a little whitened Title Bar.
+It's slightly whitened Title Bar.
 
 ...Add more...
