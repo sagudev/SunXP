@@ -98,7 +98,7 @@ There is no luster.
 - Base Color RGB: (0, 90, 240)
 
 This is a blue title bar of rounded rectangle.
-The upper edge has cyanic highlight.
+The upper edge has a little cyanic highlight.
 The lower edge has dim shadow.
 The middle is a little dented blue.
 
