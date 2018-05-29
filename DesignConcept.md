@@ -18,6 +18,7 @@ There is a dull white luster from upper.
 - Pixel Size: (???, ???)
 - Base Color RGB: (200, 90, 70)
 
+This is a button of rounded reactangle.
 There is a white cross ("r" of Marlett Font) in the center.
 The border is a white rounded rectangle.
 There is a dull white luster from upper left.
@@ -26,8 +27,9 @@ There is a dull white luster from upper left.
 
 - File Name: close-disabled
 - Pixel Size: (???, ???)
-- Base Color RGB: (150, 70, 90)
+- Base Color RGB: (150, 130, 130)
 
+This is a button of rounded reactangle.
 There is a dull white RGB(200, 200, 256) cross ("r" of Marlett Font) in the center.
 The border is a dull white RGB(200, 200, 256) rounded rectangle.
 There is no luster.
@@ -38,6 +40,7 @@ There is no luster.
 - Pixel Size: (???, ???)
 - Base Color RGB: (35, 110, 250)
 
+This is a button of rounded reactangle.
 There is white "1" of Marlett Font in the center.
 The border is a white rounded rectangle.
 
@@ -47,6 +50,7 @@ The border is a white rounded rectangle.
 - Pixel Size: (???, ???)
 - Base Color RGB: (50, 150, 256)
 
+This is a button of rounded reactangle.
 There is dull white RGB(200, 200, 256) "1" of Marlett Font in the center.
 The border is a dull white RGB(200, 200, 256) rounded rectangle.
 There is no luster.
@@ -57,6 +61,7 @@ There is no luster.
 - Pixel Size: (???, ???)
 - Base Color RGB: (35, 110, 250)
 
+This is a button of rounded reactangle.
 There is white "2" of Marlett Font in the center.
 The border is a white rounded rectangle.
 There is a dull white luster from upper left.
@@ -67,6 +72,7 @@ There is a dull white luster from upper left.
 - Pixel Size: (???, ???)
 - Base Color RGB: (50, 150, 256)
 
+This is a button of rounded reactangle.
 There is dull white RGB(200, 200, 256) "2" of Marlett Font in the center.
 The border is a dull white RGB(200, 200, 256) rounded rectangle.
 There is no luster.
@@ -77,6 +83,7 @@ There is no luster.
 - Pixel Size: (???, ???)
 - Base Color RGB: (35, 110, 250)
 
+This is a button of rounded reactangle.
 There is white "0" of Marlett Font in the center.
 The border is a white rounded rectangle.
 There is a dull white luster from upper left.
@@ -87,6 +94,7 @@ There is a dull white luster from upper left.
 - Pixel Size: (???, ???)
 - Base Color RGB: (50, 150, 256)
 
+This is a button of rounded reactangle.
 There is dull white RGB(200, 200, 256) "0" of Marlett Font in the center.
 The border is a dull white RGB(200, 200, 256) rounded rectangle.
 There is no luster.
