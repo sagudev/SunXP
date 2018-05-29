@@ -5,7 +5,7 @@ Please describe all the images of SunXP.
 ## The Start Button Base
 
 - File Name: start
-- Pixel Size: (???, ???)
+- Pixel Size: (110, 30)
 - Base Color RGB: (60, 170, 70)
 
 This is a green button.
@@ -15,7 +15,7 @@ There is a dull white luster from upper.
 ## The Close Button
 
 - File Name: close
-- Pixel Size: (???, ???)
+- Pixel Size: (21, 21)
 - Base Color RGB: (200, 90, 70)
 
 This is a button of rounded reactangle.
@@ -26,7 +26,7 @@ There is a dull white luster from upper left.
 ## The Close Button (Disabled)
 
 - File Name: close-disabled
-- Pixel Size: (???, ???)
+- Pixel Size: (21, 21)
 - Base Color RGB: (150, 130, 130)
 
 This is a button of rounded reactangle.
@@ -37,7 +37,7 @@ There is no luster.
 ## The Maximize Button
 
 - File Name: maximized
-- Pixel Size: (???, ???)
+- Pixel Size: (21, 21)
 - Base Color RGB: (35, 110, 250)
 
 This is a button of rounded reactangle.
@@ -47,7 +47,7 @@ The border is a white rounded rectangle.
 ## The Maximize Button (Disabled)
 
 - File Name: maximized-disabled
-- Pixel Size: (???, ???)
+- Pixel Size: (21, 21)
 - Base Color RGB: (50, 150, 256)
 
 This is a button of rounded reactangle.
@@ -58,7 +58,7 @@ There is no luster.
 ## The Restore Button
 
 - File Name: restore
-- Pixel Size: (???, ???)
+- Pixel Size: (21, 21)
 - Base Color RGB: (35, 110, 250)
 
 This is a button of rounded reactangle.
@@ -69,7 +69,7 @@ There is a dull white luster from upper left.
 ## The Restore Button (Disabled)
 
 - File Name: restore-disabled
-- Pixel Size: (???, ???)
+- Pixel Size: (21, 21)
 - Base Color RGB: (50, 150, 256)
 
 This is a button of rounded reactangle.
@@ -80,7 +80,7 @@ There is no luster.
 ## The Minimize Button
 
 - File Name: minimize
-- Pixel Size: (???, ???)
+- Pixel Size: (21, 21)
 - Base Color RGB: (35, 110, 250)
 
 This is a button of rounded reactangle.
@@ -91,7 +91,7 @@ There is a dull white luster from upper left.
 ## The Minimize Button (Disabled)
 
 - File Name: minimize-disabled
-- Pixel Size: (???, ???)
+- Pixel Size: (21, 21)
 - Base Color RGB: (50, 150, 256)
 
 This is a button of rounded reactangle.
