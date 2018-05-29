@@ -12,9 +12,9 @@ This is a green button.
 The right side is rounded by arc and the visible outside is blue.
 There is a dim white luster from upper.
 
-## The Close Button (Active)
+## The Close Button
 
-- File Name: close-active
+- File Name: close
 - Pixel Size: (???, ???)
 - Base Color RGB: (200, 90, 70)
 
@@ -22,9 +22,9 @@ There is a white cross in the center.
 The border is a white rounded rectangle.
 There is a dim white luster from upper left.
 
-## The Close Button (Inactive)
+## The Close Button (Disabled)
 
-- File Name: close-inactive
+- File Name: close-disabled
 - Pixel Size: (???, ???)
 - Base Color RGB: (180, 70, 90)
 
@@ -32,18 +32,18 @@ There is a white cross in the center.
 The border is a white rounded rectangle.
 There is no luster.
 
-## The Maximize Button (Active)
+## The Maximize Button
 
-- File Name: maximized-active
+- File Name: maximized
 - Pixel Size: (???, ???)
 - Base Color RGB: (35, 110, 250)
 
 There is white "1" of Marlett Font in the center.
 The border is a white rounded rectangle.
 
-## The Maximize Button (Inactive)
+## The Maximize Button (Disabled)
 
-- File Name: maximized-inactive
+- File Name: maximized-disabled
 - Pixel Size: (???, ???)
 - Base Color RGB: (50, 150, 256)
 
@@ -51,9 +51,9 @@ There is white "1" of Marlett Font in the center.
 The border is a white rounded rectangle.
 There is no luster.
 
-## The Restore Button (Active)
+## The Restore Button
 
-- File Name: restore-active
+- File Name: restore
 - Pixel Size: (???, ???)
 - Base Color RGB: (35, 110, 250)
 
@@ -61,9 +61,9 @@ There is white "2" of Marlett Font in the center.
 The border is a white rounded rectangle.
 There is a dim white luster from upper left.
 
-## The Restore Button (Inactive)
+## The Restore Button (Disabled)
 
-- File Name: restore-inactive
+- File Name: restore-disabled
 - Pixel Size: (???, ???)
 - Base Color RGB: (50, 150, 256)
 
@@ -71,9 +71,9 @@ There is white "2" of Marlett Font in the center.
 The border is a white rounded rectangle.
 There is no luster.
 
-## The Minimize Button (Active)
+## The Minimize Button
 
-- File Name: minimize-active
+- File Name: minimize
 - Pixel Size: (???, ???)
 - Base Color RGB: (35, 110, 250)
 
@@ -81,9 +81,9 @@ There is white "0" of Marlett Font in the center.
 The border is a white rounded rectangle.
 There is a dim white luster from upper left.
 
-## The Minimize Button (Inactive)
+## The Minimize Button (Disabled)
 
-- File Name: minimize-inactive
+- File Name: minimize-disabled
 - Pixel Size: (???, ???)
 - Base Color RGB: (50, 150, 256)
 
