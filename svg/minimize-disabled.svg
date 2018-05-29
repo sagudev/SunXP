@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="minimize-inactive.svg">
+   sodipodi:docname="minimize-disabled.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-318.27208"
-     inkscape:cy="-17.281925"
+     inkscape:zoom="0.5"
+     inkscape:cx="-576.89567"
+     inkscape:cy="116.56905"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -76,7 +76,7 @@
        x="4.9313263e-007"
        y="280.06665" />
     <rect
-       style="fill:#3296ff;fill-opacity:1;stroke:#ffffff;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#3296ff;fill-opacity:1;stroke:#c8c8ff;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4485"
        width="15.180495"
        height="15.180492"
@@ -86,7 +86,7 @@
        ry="2.1166666" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Marlett;-inkscape-font-specification:Marlett;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Marlett;-inkscape-font-specification:Marlett;letter-spacing:0px;word-spacing:0px;fill:#c8c8ff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="2.9104168"
        y="294.48645"
        id="text9303"><tspan
@@ -94,6 +94,6 @@
          id="tspan9301"
          x="2.9104168"
          y="294.48645"
-         style="font-size:12.69999981px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">0</tspan></text>
+         style="font-size:12.69999981px;fill:#c8c8ff;fill-opacity:1;stroke-width:0.26458332;">0</tspan></text>
   </g>
 </svg>

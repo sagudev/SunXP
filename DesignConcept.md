@@ -47,8 +47,8 @@ The border is a white rounded rectangle.
 - Pixel Size: (???, ???)
 - Base Color RGB: (50, 150, 256)
 
-There is white "1" of Marlett Font in the center.
-The border is a white rounded rectangle.
+There is dim white RGB(200, 200, 256) "1" of Marlett Font in the center.
+The border is a dim white RGB(200, 200, 256) rounded rectangle.
 There is no luster.
 
 ## The Restore Button
@@ -67,8 +67,8 @@ There is a dim white luster from upper left.
 - Pixel Size: (???, ???)
 - Base Color RGB: (50, 150, 256)
 
-There is white "2" of Marlett Font in the center.
-The border is a white rounded rectangle.
+There is dim white RGB(200, 200, 256) "2" of Marlett Font in the center.
+The border is a dim white RGB(200, 200, 256) rounded rectangle.
 There is no luster.
 
 ## The Minimize Button
@@ -87,8 +87,8 @@ There is a dim white luster from upper left.
 - Pixel Size: (???, ???)
 - Base Color RGB: (50, 150, 256)
 
-There is white "0" of Marlett Font in the center.
-The border is a white rounded rectangle.
+There is dim white RGB(200, 200, 256) "0" of Marlett Font in the center.
+The border is a dim white RGB(200, 200, 256) rounded rectangle.
 There is no luster.
 
 ...Add more...
