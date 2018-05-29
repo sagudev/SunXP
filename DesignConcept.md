@@ -1,6 +1,6 @@
 # Design Concept of Each Image
 
-Please describe all the image.
+Please describe all the images of SunXP.
 
 ## The Start Button Base
 
