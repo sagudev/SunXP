@@ -10,7 +10,7 @@ Please describe all the images of SunXP.
 
 This is a green button.
 The right side is rounded by arc and the visible outside is blue.
-There is a dim white luster from upper.
+There is a dull white luster from upper.
 
 ## The Close Button
 
@@ -20,7 +20,7 @@ There is a dim white luster from upper.
 
 There is a white cross in the center.
 The border is a white rounded rectangle.
-There is a dim white luster from upper left.
+There is a dull white luster from upper left.
 
 ## The Close Button (Disabled)
 
@@ -47,8 +47,8 @@ The border is a white rounded rectangle.
 - Pixel Size: (???, ???)
 - Base Color RGB: (50, 150, 256)
 
-There is dim white RGB(200, 200, 256) "1" of Marlett Font in the center.
-The border is a dim white RGB(200, 200, 256) rounded rectangle.
+There is dull white RGB(200, 200, 256) "1" of Marlett Font in the center.
+The border is a dull white RGB(200, 200, 256) rounded rectangle.
 There is no luster.
 
 ## The Restore Button
@@ -59,7 +59,7 @@ There is no luster.
 
 There is white "2" of Marlett Font in the center.
 The border is a white rounded rectangle.
-There is a dim white luster from upper left.
+There is a dull white luster from upper left.
 
 ## The Restore Button (Disabled)
 
@@ -67,8 +67,8 @@ There is a dim white luster from upper left.
 - Pixel Size: (???, ???)
 - Base Color RGB: (50, 150, 256)
 
-There is dim white RGB(200, 200, 256) "2" of Marlett Font in the center.
-The border is a dim white RGB(200, 200, 256) rounded rectangle.
+There is dull white RGB(200, 200, 256) "2" of Marlett Font in the center.
+The border is a dull white RGB(200, 200, 256) rounded rectangle.
 There is no luster.
 
 ## The Minimize Button
@@ -79,7 +79,7 @@ There is no luster.
 
 There is white "0" of Marlett Font in the center.
 The border is a white rounded rectangle.
-There is a dim white luster from upper left.
+There is a dull white luster from upper left.
 
 ## The Minimize Button (Disabled)
 
@@ -87,8 +87,8 @@ There is a dim white luster from upper left.
 - Pixel Size: (???, ???)
 - Base Color RGB: (50, 150, 256)
 
-There is dim white RGB(200, 200, 256) "0" of Marlett Font in the center.
-The border is a dim white RGB(200, 200, 256) rounded rectangle.
+There is dull white RGB(200, 200, 256) "0" of Marlett Font in the center.
+The border is a dull white RGB(200, 200, 256) rounded rectangle.
 There is no luster.
 
 ...Add more...
