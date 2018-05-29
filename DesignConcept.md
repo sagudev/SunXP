@@ -28,8 +28,8 @@ There is a dull white luster from upper left.
 - Pixel Size: (???, ???)
 - Base Color RGB: (150, 70, 90)
 
-There is a white cross in the center.
-The border is a white rounded rectangle.
+There is a dull white RGB(200, 200, 256) cross in the center.
+The border is a dull white RGB(200, 200, 256) rounded rectangle.
 There is no luster.
 
 ## The Maximize Button
