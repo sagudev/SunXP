@@ -5,7 +5,7 @@
 2. Select 'File' Menu of Inkscape and choose 'Export PNG Image...'.
 3. Click 'Export As...' button and select the path filename.
 4. Click 'Export' button. A PNG file will be exported.
-5. Repeat between 1 and 4 and create many PNG files.
+5. Repeat between 1 and 4 and create some PNG files.
 6. Open the PNG files by GIMP.
 7. Check the size. Ensure whether these images have same size.
 8. Calculate the total size. We vertically combine the images.
