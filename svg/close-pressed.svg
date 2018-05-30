@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="maximize-disabled.svg">
+   sodipodi:docname="close-pressed.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="4.2347963"
-     inkscape:cy="11.617348"
+     inkscape:zoom="4"
+     inkscape:cx="-51.931196"
+     inkscape:cy="10.892288"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,24 +69,24 @@
      id="layer1"
      transform="translate(0,-291.44373)">
     <rect
-       style="fill:#3296fa;fill-opacity:1;stroke:#c8c8ff;stroke-width:0.27608585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#9c4545;fill-opacity:1;stroke:#c8c8ff;stroke-width:0.27608651;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4485"
-       width="5.2801518"
-       height="5.2801509"
-       x="0.13805521"
-       y="291.58176"
-       rx="0.736229"
-       ry="0.736229" />
+       width="5.2801642"
+       height="5.2801633"
+       x="0.13804293"
+       y="291.58179"
+       rx="0.73623073"
+       ry="0.73623073" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.68114519px;line-height:1.25;font-family:Marlett;-inkscape-font-specification:Marlett;letter-spacing:0px;word-spacing:0px;fill:#c8c8ff;fill-opacity:1;stroke:none;stroke-width:0.09202863;"
-       x="0.84552997"
-       y="296.29251"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.68115377px;line-height:1.25;font-family:Marlett;-inkscape-font-specification:Marlett;letter-spacing:0px;word-spacing:0px;fill:#5b2d2d;fill-opacity:1;stroke:none;stroke-width:0.09202884;"
+       x="-0.16679791"
+       y="297.16678"
        id="text9303"><tspan
          sodipodi:role="line"
          id="tspan9301"
-         x="0.84552997"
-         y="296.29251"
-         style="font-size:4.41737366px;fill:#c8c8ff;fill-opacity:1;stroke-width:0.09202863;">1</tspan></text>
+         x="-0.16679791"
+         y="297.16678"
+         style="font-size:5.88984585px;fill:#5b2d2d;fill-opacity:1;stroke-width:0.09202884;">r</tspan></text>
   </g>
 </svg>
