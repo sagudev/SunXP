@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="maximize-disabled.svg">
+   sodipodi:docname="minimize-pressed.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="4.2347963"
-     inkscape:cy="11.617348"
+     inkscape:cx="16.853514"
+     inkscape:cy="11.352183"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,7 +69,7 @@
      id="layer1"
      transform="translate(0,-291.44373)">
     <rect
-       style="fill:#3296fa;fill-opacity:1;stroke:#c8c8ff;stroke-width:0.27608585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#03007b;fill-opacity:1;stroke:#ffffff;stroke-width:0.27608585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4485"
        width="5.2801518"
        height="5.2801509"
@@ -79,7 +79,7 @@
        ry="0.736229" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.68114519px;line-height:1.25;font-family:Marlett;-inkscape-font-specification:Marlett;letter-spacing:0px;word-spacing:0px;fill:#c8c8ff;fill-opacity:1;stroke:none;stroke-width:0.09202863;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.68114519px;line-height:1.25;font-family:Marlett;-inkscape-font-specification:Marlett;letter-spacing:0px;word-spacing:0px;fill:#9696ff;fill-opacity:1;stroke:none;stroke-width:0.09202863;stroke-opacity:1"
        x="0.84552997"
        y="296.29251"
        id="text9303"><tspan
@@ -87,6 +87,6 @@
          id="tspan9301"
          x="0.84552997"
          y="296.29251"
-         style="font-size:4.41737366px;fill:#c8c8ff;fill-opacity:1;stroke-width:0.09202863;">1</tspan></text>
+         style="font-size:4.41737366px;fill:#9696ff;fill-opacity:1;stroke:none;stroke-width:0.09202863;stroke-opacity:1">0</tspan></text>
   </g>
 </svg>

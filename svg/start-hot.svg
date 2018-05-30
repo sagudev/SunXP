@@ -16,8 +16,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="start.svg"
-   inkscape:export-filename="C:\Users\katahiromz\Desktop\SunXP\svg\start.png"
+   sodipodi:docname="start-hot.svg"
+   inkscape:export-filename="C:\Users\katahiromz\Desktop\SunXP\svg\start-hot.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -1613,5 +1613,11 @@
         </g>
       </g>
     </g>
+    <path
+       style="fill:#00c2ef;fill-opacity:0.21634617;stroke:none;stroke-width:0.17907633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -4e-7,289.06249 27.6867544,10e-6 c 1.417413,3.96875 1.417413,3.96875 0,7.93749 H -4e-7 Z"
+       id="rect815-1-7-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
