@@ -7,8 +7,8 @@
 4. Click 'Export' button. A PNG file will be exported.
 5. Repeat between 1 and 4 and create some PNG files.
 6. Open the PNG files by GIMP.
-7. Check the size. Ensure whether these images have same size.
-8. Calculate the total size. We vertically combine the images.
+7. Check the pixel size. Ensure whether these images have same size.
+8. Calculate the total pixel size. We vertically combine the images.
 9. Select 'File' Menu of GIMP and choose 'New...'.
 10. Choose the Unit 'px' and enter the total size.
 11. Drop the PNG files to GIMP.
