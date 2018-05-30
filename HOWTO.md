@@ -1,6 +1,6 @@
 # How to create a combined bitmap
 
-0. Install [Inkscape](https://inkscape.org) and [https://www.gimp.org](GIMP).
+0. Install [Inkscape](https://inkscape.org) and [GIMP](https://www.gimp.org).
 1. Open an *.svg file by Inkscape.
 2. Select `File' Menu of Inkscape and choose `Export PNG Image...'.
 3. Click `Export As...' button and select the path filename.
