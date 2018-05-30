@@ -1,5 +1,7 @@
 # Design Concept of Each Image
 
+Please see also the file "HOWTO.md".
+
 Please describe all the images of SunXP.
 
 ## The Start Button Base
