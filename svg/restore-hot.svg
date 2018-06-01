@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="21"
@@ -15,9 +16,36 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="maximize-disabled.svg">
+   sodipodi:docname="restore-hot.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4727-3">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.67579907"
+         offset="0"
+         id="stop4723" />
+      <stop
+         id="stop8670"
+         offset="0.5"
+         style="stop-color:#ffffff;stop-opacity:0" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.28310502"
+         offset="1"
+         id="stop4725" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4727-3"
+       id="linearGradient8663"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30067459,0,0,0.29792887,0.23241944,208.25945)"
+       x1="2.2272391"
+       y1="282.38705"
+       x2="14.600574"
+       y2="294.96945" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +54,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="4.2347963"
+     inkscape:cx="-22.832856"
      inkscape:cy="11.617348"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -59,7 +87,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,7 +97,7 @@
      id="layer1"
      transform="translate(0,-291.44373)">
     <rect
-       style="fill:#3296fa;fill-opacity:1;stroke:#c8c8ff;stroke-width:0.27608585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#0000ff;fill-opacity:1;stroke:#ffffff;stroke-width:0.27608585;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4485"
        width="5.2801518"
        height="5.2801509"
@@ -77,9 +105,18 @@
        y="291.58176"
        rx="0.736229"
        ry="0.736229" />
+    <rect
+       style="fill:url(#linearGradient8663);fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4721"
+       width="5.0914221"
+       height="5.0449286"
+       x="0.23241946"
+       y="291.69937"
+       rx="0.67463869"
+       ry="0.6684795" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.68114519px;line-height:1.25;font-family:Marlett;-inkscape-font-specification:Marlett;letter-spacing:0px;word-spacing:0px;fill:#c8c8ff;fill-opacity:1;stroke:none;stroke-width:0.09202863;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.68114519px;line-height:1.25;font-family:Marlett;-inkscape-font-specification:Marlett;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09202863"
        x="0.84552997"
        y="296.29251"
        id="text9303"><tspan
@@ -87,6 +124,6 @@
          id="tspan9301"
          x="0.84552997"
          y="296.29251"
-         style="font-size:4.41737366px;fill:#c8c8ff;fill-opacity:1;stroke-width:0.09202863;">1</tspan></text>
+         style="font-size:4.41737366px;fill:#ffffff;fill-opacity:1;stroke-width:0.09202863">2</tspan></text>
   </g>
 </svg>
